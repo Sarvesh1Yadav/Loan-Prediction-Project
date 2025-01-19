@@ -15,7 +15,7 @@ Technologies Used
 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 Jupyter Notebook for interactive coding and analysis
 Dataset
-The dataset contains features like loan amount, interest rate, borrower details, and loan terms. [Include a brief description or link to the dataset source, if public.]
+The dataset contains features like loan amount, interest rate, borrower details, and loan terms. 
 
 Model Development
 The model was developed using supervised learning algorithms. Steps included:
