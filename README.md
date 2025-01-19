@@ -1,13 +1,17 @@
 Introduction
+
 This project aims to predict loan prices using machine learning techniques. It involves data preprocessing, feature engineering, and model training to provide accurate predictions.
 
 Features
+
 Exploratory Data Analysis
 Data Cleaning and Preprocessing
 Feature Selection and Engineering
 Model Training and Validation
 Prediction and Evaluation
+
 Technologies Used
+
 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 Jupyter Notebook for interactive coding and analysis
 Dataset
